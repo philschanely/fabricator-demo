@@ -1,0 +1,18 @@
+/**
+ * Toolkit styles
+ */
+body {
+  font-family: serif; }
+
+button,
+.btn {
+  border: none;
+  padding: 5px 10px;
+  background-color: rebeccapurple;
+  color: white;
+  display: inline-block;
+  font-size: 1.2rem;
+  font-family: serif;
+  text-decoration: none; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRvb2xraXQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUdIO0VBQ0MsbUJBQW1CLEVBQ25COztBQUVEOztFQUVDLGFBQVk7RUFDWixrQkFBa0I7RUFDbEIsZ0NBQWdDO0VBQ2hDLGFBQWE7RUFDYixzQkFBcUI7RUFDckIsa0JBQWtCO0VBQ2xCLG1CQUFtQjtFQUNuQixzQkFBc0IsRUFDdEIiLCJmaWxlIjoidG9vbGtpdC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIFRvb2xraXQgc3R5bGVzXG4gKi9cblxuXG5ib2R5IHtcblx0Zm9udC1mYW1pbHk6IHNlcmlmO1xufVxuXG5idXR0b24sXG4uYnRuIHtcblx0Ym9yZGVyOm5vbmU7XG5cdHBhZGRpbmc6IDVweCAxMHB4O1xuXHRiYWNrZ3JvdW5kLWNvbG9yOiByZWJlY2NhcHVycGxlO1xuXHRjb2xvcjogd2hpdGU7XG5cdGRpc3BsYXk6aW5saW5lLWJsb2NrO1xuXHRmb250LXNpemU6IDEuMnJlbTtcblx0Zm9udC1mYW1pbHk6IHNlcmlmO1xuXHR0ZXh0LWRlY29yYXRpb246IG5vbmU7XG59XG4iXX0= */
